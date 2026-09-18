@@ -1,0 +1,6 @@
+{
+  "name": "Email Audio Digest & Inbox",
+  "description": "Hourly email reader and summarizer agent that turns emails into audio digests with a mobile inbox dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
